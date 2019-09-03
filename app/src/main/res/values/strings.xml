@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LearnExpresso</string>
+    <string name="output_text">output text</string>
+    <string name="edit_text">edit Text</string>
+    <string name="move_activity">Move Activity</string>
+    <string name="result_view">result view</string>
+</resources>
